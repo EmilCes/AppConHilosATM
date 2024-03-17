@@ -1,0 +1,14 @@
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.deps.json
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.runtimeconfig.json
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/bin/Debug/net8.0/AppConHilosATM.pdb
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.AssemblyInfoInputs.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.AssemblyInfo.cs
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.csproj.CoreCompileInputs.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/refint/AppConHilosATM.dll
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.pdb
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/AppConHilosATM.genruntimeconfig.cache
+/Users/cesar/Documents/UV/6. Sexto Periodo/Desarrollo de Sistemas en Red/codigo/dsr/AppConHilosATM/obj/Debug/net8.0/ref/AppConHilosATM.dll
